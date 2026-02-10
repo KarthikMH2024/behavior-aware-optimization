@@ -1,22 +1,22 @@
 cff-version: 1.2.0
 title: "Behavior-Aware Optimization with Attention and CNNs"
-message: "If you use this repository in academic work, please cite it."
 type: software
-authors:
 
-* family-names: "Karthik"
-  given-names: "M. H."
-  year: 2026
-  version: 1.0.0
-  license: MIT
-  repository-code: "[https://github.com/KarthikMH2024/behavior-aware-optimization](https://github.com/KarthikMH2024/behavior-aware-optimization)"
-  keywords:
-* machine learning
-* convolutional neural networks
-* attention
-* robustness
-* evolutionary algorithms
-  abstract: >
-  Experimental research prototype exploring behavior-aware optimization
-  using a hybrid attention and CNN architecture evaluated with worst-case
-  and variance-based fitness metrics on structured sensor data.
+authors:
+  - given-names: "M. H."
+    family-names: "Karthik"
+
+message: >
+  If you use this repository in academic work or research,
+  please cite it using this metadata.
+
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/KarthikMH2024/behavior-aware-optimization"
+
+keywords:
+  - machine learning
+  - convolutional neural networks
+  - attention mechanisms
+  - robustness
+  - evolutionary algorithms
